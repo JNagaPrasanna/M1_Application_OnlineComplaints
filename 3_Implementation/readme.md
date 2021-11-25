@@ -5,7 +5,7 @@ Implementation
     
                   Folder      	Description
                    inc	        All headers files
-                   src	        Main source code
+                   src	        Fu8nctions
                    unity	      All unity files
                    test        	Output
 
