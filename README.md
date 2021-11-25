@@ -3,6 +3,6 @@
 
 ![Github stats](https://img.shields.io/badge/Code%20Grade-B-green)                      
 
-![Github stats](https://img.shields.io/github/languages/code-size/JNagaPrasanna/M1_Application_OnlineComplaints)  
+![Github stats](https://img.shields.io/badge/Unit__Testing-passing-green)
 
 ![Github stats](https://img.shields.io/badge/Build__linux-passing-green)  
